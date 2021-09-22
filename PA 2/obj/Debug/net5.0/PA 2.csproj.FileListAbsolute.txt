@@ -1,0 +1,16 @@
+C:\Users\calex\Desktop\PA 2\bin\Debug\net5.0\PA 2.exe
+C:\Users\calex\Desktop\PA 2\bin\Debug\net5.0\PA 2.deps.json
+C:\Users\calex\Desktop\PA 2\bin\Debug\net5.0\PA 2.runtimeconfig.json
+C:\Users\calex\Desktop\PA 2\bin\Debug\net5.0\PA 2.runtimeconfig.dev.json
+C:\Users\calex\Desktop\PA 2\bin\Debug\net5.0\PA 2.dll
+C:\Users\calex\Desktop\PA 2\bin\Debug\net5.0\ref\PA 2.dll
+C:\Users\calex\Desktop\PA 2\bin\Debug\net5.0\PA 2.pdb
+C:\Users\calex\Desktop\PA 2\obj\Debug\net5.0\PA 2.csprojAssemblyReference.cache
+C:\Users\calex\Desktop\PA 2\obj\Debug\net5.0\PA 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calex\Desktop\PA 2\obj\Debug\net5.0\PA 2.AssemblyInfoInputs.cache
+C:\Users\calex\Desktop\PA 2\obj\Debug\net5.0\PA 2.AssemblyInfo.cs
+C:\Users\calex\Desktop\PA 2\obj\Debug\net5.0\PA 2.csproj.CoreCompileInputs.cache
+C:\Users\calex\Desktop\PA 2\obj\Debug\net5.0\PA 2.dll
+C:\Users\calex\Desktop\PA 2\obj\Debug\net5.0\ref\PA 2.dll
+C:\Users\calex\Desktop\PA 2\obj\Debug\net5.0\PA 2.pdb
+C:\Users\calex\Desktop\PA 2\obj\Debug\net5.0\PA 2.genruntimeconfig.cache
